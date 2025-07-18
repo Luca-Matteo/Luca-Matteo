@@ -2,7 +2,7 @@
 - 👀 I’m interested in design, music and art.
 - 🌱 I’m currently learning coding.
 - 💞️ I’m looking to collaborate on meaningful projects.
-- 📫 How to reach me: info@ucamatteo.de
+- 📫 How to reach me: info@lucamatteo.design
 - ⚡ Fun fact: ...
 
 <!---
